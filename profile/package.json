@@ -1,0 +1,15 @@
+{
+  "name": "sprunki-dandy-world",
+  "version": "1.0.0",
+  "description": "A rhythm-based game set in the whimsical world of Sprunki Dandy.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[Your Name]",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
