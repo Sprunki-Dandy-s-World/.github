@@ -38,7 +38,7 @@ Sprunki Dandy's World is a one-of-a-kind rhythm game that lets players craft the
 
 ## Conclusion
 
-*Sprunki Dandy's World* is a unique game that blends music, art, and storytelling in a way few games do. From its engaging beat-making mechanics to its colorful characters and shareable creations, it’s a rhythm game that stands out from the crowd. So, why wait? Dive into *Sprunki Dandy’s World* today and start creating beats, exploring characters, and sharing your musical adventures with the world.
+[Sprunki Infected](https://github.com/Sprunki-Infected) is a unique game that blends music, art, and storytelling in a way few games do. From its engaging beat-making mechanics to its colorful characters and shareable creations, it’s a rhythm game that stands out from the crowd. So, why wait? Dive into *Sprunki Dandy’s World* today and start creating beats, exploring characters, and sharing your musical adventures with the world.
 
 ## Getting Started
 To run the project locally:
